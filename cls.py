@@ -1,2 +1,2 @@
 # python data types
-# int, 
+# int, float,strings,sets,dict,tuples
